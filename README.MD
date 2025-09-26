@@ -52,7 +52,7 @@
 ---
 
 ## 📬 Connect With Me  
-- 💼 [Upwork Profile]([https://www.upwork.com/](https://www.upwork.com/freelancers/~01c978d6dc3fff0492))  
+- 💼 [Upwork Profile](https://www.upwork.com/](https://www.upwork.com/freelancers/~01c978d6dc3fff0492)  
 - 🌐 [Portfolio](https://mina-markos.vercel.app/)  
 - 🐦 [Twitter](https://x.com/MinaElkessMark)  
 - 💌 Email: **minalxr123@gmail.com**  
